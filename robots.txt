@@ -1,4 +1,5 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://www.playhd.site/sitemap.xml
+
+sitemap: https://playhd.site/sitemap.xml
